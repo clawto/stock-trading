@@ -76,7 +76,7 @@ clawhub install clawto/stock-trading
 沪股通: -23.1亿 | 深股通: -25.2亿
 ```
 
-## 🫶 Support
+## 🫶 Donation
 
 If this skill helps you profit, consider donating:
 
