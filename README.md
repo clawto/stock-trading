@@ -34,8 +34,7 @@ clawhub install clawto/stock-trading
 
 | Coin | Address |
 |------|---------|
-| BTC | `bc1qxy2kgdygjrsqtzq2n0yrf2493p3q5k3v7dw9lx` |
-| ETH | `0x71C7656EC7ab88b098defB751B7401B5f6d8976F` |
+| BTC | `bc1pdah8vmmuctw3cxz0lsryh5rpzqn8jv546jma3auxpgxeqplrd32s4m68cs` |
 
 ## Author
 
